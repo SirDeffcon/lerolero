@@ -2,14 +2,27 @@
  "signatures": [
   {
    "keyid": "b76255e78d8fb05c37fee4de2c73054a74144462b1910d2b0515b2b448aa6240",
-   "sig": "7b9929dfe162862c7c63f2e7b3999cc6286907212d0925e4dc81d9fa71df68c05f13232b3e17873c7dc3fde845caa965b1ac3fcaa21198d839cd0e7b6a10a10d"
+   "sig": "427124cd9ec3a75b2a746f3d533b243e792f0847e5e8a0ce3ac4cc2cad97fae0e3773d9b94675ff47d61ae969b5b83a9fa4fa477960fd5d1e2fa5a7390081400"
   }
  ],
  "signed": {
   "_type": "targets",
-  "expires": "2026-10-20T22:36:29Z",
+  "expires": "2026-10-28T14:24:48Z",
   "spec_version": "1.0.31",
-  "targets": {},
-  "version": 1
+  "targets": {
+   "Deffy-1.2.0.1.tar.gz": {
+    "custom": {
+     "tufup": {
+      "required": false
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "1cbc5b66bd40cf4c4f31b43e32a0c24cc11ce79e818bb44b57df997014bf0ae6"
+    },
+    "length": 138439695
+   }
+  },
+  "version": 2
  }
 }
