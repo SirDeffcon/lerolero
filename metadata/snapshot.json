@@ -1,0 +1,23 @@
+{
+ "signatures": [
+  {
+   "keyid": "b18cfa726fb21a52f312faabb55df85dd8ed8bf65f269612d4e3e4248f15a66a",
+   "sig": "c350395d24cfef74488fe1e9ef7b7c3de7a8407355bc0591c47a5953b6887195542eb779a93c9ff3e5d32ca5da3c0bb3aa129db5c2faa3c314615d5977b4bc0a"
+  }
+ ],
+ "signed": {
+  "_type": "snapshot",
+  "expires": "2026-10-28T14:25:17Z",
+  "meta": {
+   "targets.json": {
+    "hashes": {
+     "sha256": "465bce542f815e47d2d6d2fdedfb5a35feeb5294bcc2b574c0cba57369c18806"
+    },
+    "length": 501,
+    "version": 6
+   }
+  },
+  "spec_version": "1.0.31",
+  "version": 4
+ }
+}
